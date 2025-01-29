@@ -1,5 +1,9 @@
 # Kanban-Obsidian
 
+知乎文字链接：[Obsidan与Kanban：用Quicker快速添加内容到kanban（新版教程）](https://zhuanlan.zhihu.com/p/697755786)
+
+哔哩哔哩视频链接：[Obsidian与kanban：用Quicker快速添加内容到kanban](https://www.bilibili.com/video/BV1sw4m1X7d5/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c08c205650a4a5e13d87475ab1ab2431)
+
 ### Obsidan与Kanban：用Quicker快速添加内容到kanban
 
 #### 灵感来源
